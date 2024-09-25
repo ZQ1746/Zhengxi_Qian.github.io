@@ -11,6 +11,7 @@ I am a Doctoral Student in Digital Financial Technology at the National Universi
 
 Working Papers
 ======
+
 NA
 ------
 NA
@@ -18,6 +19,7 @@ NA
 
 Publications
 ======
+
 NA
 ------
 NA
@@ -25,8 +27,6 @@ NA
 Curriculum vitae
 ======
 
-
-
-For more info
+NA
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+NA
